@@ -1,0 +1,30 @@
+.container {
+	max-width: 500px;
+	min-width: 350px;
+	background-image: url("https://cdn.pixabay.com/photo/2020/05/30/21/30/illustration-5240508_1280.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#input-form {
+	text-align: center;
+}
+
+#error {
+	display: none;
+}
+
+#output {
+	display: none;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+ }
